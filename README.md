@@ -3,9 +3,9 @@
 
 # mitra
 
-**software, without the unnecessary baggage.**
+**coding for fun, building things i need, and making whatever comes to mind.**
 
-i build tools and applications with a focus on performance, simplicity, and keeping things lightweight.
+messing around with code, making personal tools, experimenting with random ideas, and occasionally finishing something.
 
 <br/>
 
@@ -24,17 +24,16 @@ i build tools and applications with a focus on performance, simplicity, and keep
 
 <br/>
 
-<sub>Git · Windows · IntelliJ IDEA · VS Code</sub>
+<sub>git · windows · intellij idea · vscode</sub>
 
 </div>
 
 ---
 
-### What I care about
+### what i'm up to
 
-- Fast, lightweight software
-- Useful features without unnecessary complexity
-- Code that's readable, maintainable, and does its job
-- No bloat, needless abstractions, or overengineering
-
-<sub>Still trying to write good code. Turns out that's the hard part.</sub>
+- building tools and software i actually want or need
+- coding for fun and messing around with whatever interests me
+- experimenting with languages, technologies, and random ideas
+- making things faster, lighter, or just nicer to use
+- occasionally getting carried away with a project
